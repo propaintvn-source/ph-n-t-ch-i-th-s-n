@@ -1,0 +1,7 @@
+{
+  "name": "VietPaint Insight - Phân tích Đối thủ Ngành Sơn Việt Nam",
+  "description": "Ứng dụng phân tích thị trường và đối thủ cạnh tranh chuyên sâu cho ngành sơn tại Việt Nam, cung cấp thị phần, chiến lược và so sánh sản phẩm.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
